@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
-<h3 align="center">A passionate full stack web developer from India.</h3>
+<h3 align="center">A passionate Full stack web developer from India.</h3>
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="coding" />
 
