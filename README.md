@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="coding" />
 
-- 👨‍💻 All of my projects are available at [https://yash-singh.vercel.app/](https://yash-singh.vercel.app/)
+- 👨‍💻 All of my projects are available at [yashks.me](yashks.me)
 
 - 📫 How to reach me **singhyash9009670@gmail.com**
 
