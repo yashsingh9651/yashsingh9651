@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="coding" />
 
-- 👨‍💻 All of my projects are available at [www.yashks.me](https://www.yashks.me/)
+- 👨‍💻 All of my projects are available at [www.yashks.codes](https://www.yashks.codes/)
 
 - 📫 How to reach me **singhyash9009670@gmail.com**
 
