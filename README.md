@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.yashks.codes](https://www.yashks.codes/)
 
-- 📫 How to reach me **singhyash9009670@gmail.com**
+- 📫 How to reach me **yashoncode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
